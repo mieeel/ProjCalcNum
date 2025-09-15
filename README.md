@@ -1,4 +1,4 @@
-# ProjCalcNum
+# Projeto 1: Resolução de SL por Métodos Iterativos
 Projeto de Cálculo Numérico 
 Tema: Resolução de Sistemas Lineares por Métodos Iterativos (Jacobi e Gauss-Seidel)  
 Curso: Ciência da Computação 
